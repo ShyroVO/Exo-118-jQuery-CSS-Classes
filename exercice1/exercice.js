@@ -1,0 +1,1 @@
+$('p').addClass('important');
